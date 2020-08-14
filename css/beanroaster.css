@@ -100,3 +100,30 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image {
+    width: 15%;
+}
+
+#uploadImage2 {
+    width: 61%;
+}
+
+#Pointer{
+    width: 24%;
+    align: center;
+}
+
+#CBRcolour{
+    width: 80%;
+}
+
+#buttons{
+    width: 20%;
+    align: "left";
+}
+
+#Comments{
+    width:622px;
+    align: center;
+}
